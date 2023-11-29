@@ -19,13 +19,13 @@ Key topics and concepts explored in this course include:
 
 ## Repository Content
 
-- **PDF Solutions:** This repository primarily features a PDF of my detailed solutions to a range of problems, reflecting my analytical approach to understanding and applying the principles of Quantum Mechanics and symmetry.
+- **PDF Solutions:** This repository primarily features a [PDF](https://github.com/hasifnumerics/Symmetry-and-Quantum-Mechanics/blob/185b39a3fac95dbd77ae62769c23f79731f6be1c/M599_Hasif%20(1).pdf) of my detailed solutions to a range of problems, reflecting my analytical approach to understanding and applying the principles of Quantum Mechanics and symmetry.
 
 ## Purpose and Audience
 
 The material in this repository is particularly relevant for:
 
 - **Advanced Quantum Mechanics Students:** Offering a resource for those seeking a deeper understanding of the algebraic underpinnings of Quantum Mechanics.
-- **Academic Researchers:** Serving as a demonstration of my capability to handle complex concepts in theoretical physics, useful for collaborations or advanced study.
+
 
 
